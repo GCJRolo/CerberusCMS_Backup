@@ -84,11 +84,11 @@ echo ("
 												<IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_THEME_DIRECTORY/Image/Badges/FireFox_Badge.png?$_GLOBAL_SYSTEM_SECURITY_IMAGE_RANDOM_STRING_GENERATION_CACHE_CIRCUMVENTION\" CLASS=\"PanelProjectBadge\" ALT=\":: Mozilla FireFox :: Official Web-Browser Software Project Web Server ::\">
 											</A><BR><BR>
 											
-											<A HREF=\"https://www.GitHub.com/TinkeSoftware/CerberusCMS\" TITLE=\":: Cerberus Content Management System :: Clean Code Project :: Official BITBucket Repository ::\" TARGET=\"_NEW\">
+											<A HREF=\"https://www.BITBucket.org\" TITLE=\":: Cerberus Content Management System :: Clean Code Project :: Official BITBucket Repository ::\" TARGET=\"_NEW\">
 												<IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_THEME_DIRECTORY/Image/Badges/BITBucket_Badge.png?$_GLOBAL_SYSTEM_SECURITY_IMAGE_RANDOM_STRING_GENERATION_CACHE_CIRCUMVENTION\" CLASS=\"PanelProjectBadge\" ALT=\":: Cerberus Content Management System Is A Clean Code Project ::\">
 											</A><BR><BR>
 
-											<A HREF=\"https://www.BitBucket.org/TinkeSoftware/CerberusCMS\" TITLE=\":: Cerberus Content Management System :: Clean Code Project :: Official GitHub Repository ::\" TARGET=\"_NEW\">
+											<A HREF=\"https://www.GITHub.com/TinkeSoftware/CerberusCMS\" TITLE=\":: Cerberus Content Management System :: Clean Code Project :: Official GITHub Repository ::\" TARGET=\"_NEW\">
 												<IMG SRC=\"./Theme/$_GLOBAL_SYSTEM_THEME_DIRECTORY/Image/Badges/CleanCode_Badge.png?$_GLOBAL_SYSTEM_SECURITY_IMAGE_RANDOM_STRING_GENERATION_CACHE_CIRCUMVENTION\" CLASS=\"PanelProjectBadge\" ALT=\":: Cerberus Content Management System Is A Clean Code Project ::\">
 											</A><BR><BR>
 											
